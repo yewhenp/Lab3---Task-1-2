@@ -11,7 +11,7 @@ This is an additional module that can navigate through a JSON file. Mainly, it g
 If it finds an object (dict) or a list on the key you entered, it ask you gi go on the next level
 
 ## Usage
-Firstly, yuo should install some packages
+Firstly, you should install some packages
 
 ```
 $ pip install folium
