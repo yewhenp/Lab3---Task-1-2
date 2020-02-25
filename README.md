@@ -6,6 +6,9 @@ This project works as a web app that generates a map of users in Twitter friendl
 * flask_app.py + templates directory - the module for running web aplication
 * task3.py - main algoritm of starting api and building map
 
+The main app is running here:
+http://yex00.pythonanywhere.com/
+
 ## General info - JSON Navigator
 This is an additional module that can navigate through a JSON file. Mainly, it goes through JSON objects keys and advise you to choose next key
 If it finds an object (dict) or a list on the key you entered, it ask you gi go on the next level
